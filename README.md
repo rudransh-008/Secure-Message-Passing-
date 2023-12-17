@@ -1,5 +1,3 @@
-# Dappcord
-
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
